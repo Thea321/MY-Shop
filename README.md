@@ -1,2 +1,2 @@
-# MY-Shop
+# TeaTepnadze_MY-Shop
 Angular course project
